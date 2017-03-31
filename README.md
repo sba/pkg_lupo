@@ -1,7 +1,7 @@
 pkg_lupo
 ===================
 
-###LUPO Joomla Package
+##LUPO Joomla Package
 
 Contains:
 - [com_lupo](https://github.com/sba/com_lupo)
@@ -11,6 +11,7 @@ Contains:
 - [mod_lupo_quickicon](https://github.com/sba/mod_lupo_quickicon)
 - [plg_search_lupo](https://github.com/sba/plg_search_lupo)
 - [plg_search_lupogenres](https://github.com/sba/plg_search_lupogenres)
+- [plg_content_lupototaltoys](https://github.com/sba/plg_content_lupototaltoys)
 
 English and german translations are included.
 For french translation download:
