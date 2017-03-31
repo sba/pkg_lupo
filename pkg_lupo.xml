@@ -4,7 +4,7 @@
     <packagename>LUPO</packagename>
     <version>3.3.0</version>
     <description>LUPO Spielliste für Joomla</description>
-    <creationDate>November 2016</creationDate>
+    <creationDate>March 2017</creationDate>
 	<copyright>Copyright (C) databauer / Stefan Bauer</copyright>
 	<license>License GNU General Public License version 2 or later</license>
 	<author>Stefan Bauer</author>
@@ -18,6 +18,7 @@
         <file type="module" id="mod_lupo_quickicon" client="admin">mod_lupo_quickicon.zip</file>
         <file type="plugin" id="plg_search_lupo" group="search">plg_search_lupo.zip</file>
         <file type="plugin" id="plg_search_lupogenres" group="search">plg_search_lupogenres.zip</file>
+        <file type="plugin" id="plg_content_lupototaltoys" group="content">plg_content_lupototaltoys.zip</file>
     </files>
     <scriptfile></scriptfile>
     <updateservers>
