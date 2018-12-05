@@ -14,5 +14,6 @@ Contains:
 - [plg_content_lupototaltoys](https://github.com/sba/plg_content_lupototaltoys)
 
 English and german translations are included.
-For french translation download:
+Available additional translations:
 - [pkg_lupo_languagepack_fr-FR](https://github.com/sba/pkg_lupo_languagepack_fr-FR)
+- [pkg_lupo_languagepack_it-IT](https://github.com/sba/pkg_lupo_languagepack_it-IT)
