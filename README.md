@@ -1,7 +1,7 @@
 pkg_lupo
 ===================
 
-###LUPO Joomla Package
+### LUPO Joomla Package
 
 Contains:
 - [com_lupo](https://github.com/sba/com_lupo)
