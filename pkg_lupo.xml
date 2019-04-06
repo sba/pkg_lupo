@@ -9,7 +9,7 @@
 	<license>License GNU General Public License version 2 or later</license>
 	<author>Stefan Bauer</author>
 	<authorEmail>stefan@databauer.ch</authorEmail>
-	<authorUrl>http://www.ludothekprogramm.ch</authorUrl>
+	<authorUrl>https://www.ludothekprogramm.ch</authorUrl>
     <files folder="packages">
         <file type="component" id="com_lupo">com_lupo.zip</file>
         <file type="module" id="mod_lupo_categories" client="site">mod_lupo_categories.zip</file>
