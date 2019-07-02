@@ -2,14 +2,14 @@
 <extension type="package" version="3.1" method="upgrade">
     <name>LUPO</name>
     <packagename>LUPO</packagename>
-    <version>3.12.0</version>
+    <version>3.18.0</version>
     <description>LUPO Spielliste für Joomla</description>
-    <creationDate>January 2019</creationDate>
+    <creationDate>July 2019</creationDate>
 	<copyright>Copyright (C) databauer / Stefan Bauer</copyright>
 	<license>License GNU General Public License version 2 or later</license>
 	<author>Stefan Bauer</author>
 	<authorEmail>stefan@databauer.ch</authorEmail>
-	<authorUrl>http://www.ludothekprogramm.ch</authorUrl>
+	<authorUrl>https://www.ludothekprogramm.ch</authorUrl>
     <files folder="packages">
         <file type="component" id="com_lupo">com_lupo.zip</file>
         <file type="module" id="mod_lupo_categories" client="site">mod_lupo_categories.zip</file>
