@@ -12,6 +12,7 @@ Contains:
 - [plg_search_lupo](https://github.com/sba/plg_search_lupo)
 - [plg_search_lupogenres](https://github.com/sba/plg_search_lupogenres)
 - [plg_content_lupototaltoys](https://github.com/sba/plg_content_lupototaltoys)
+- [plg_content_luporandomquote](https://github.com/sba/plg_content_luporandomquote)
 
 English and german translations are included.
 
