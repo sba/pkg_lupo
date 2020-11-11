@@ -2,9 +2,9 @@
 <extension type="package" version="3.1" method="upgrade">
     <name>LUPO</name>
     <packagename>LUPO</packagename>
-    <version>3.38.0</version>
+    <version>3.39.0</version>
     <description>LUPO Spielliste für Joomla</description>
-    <creationDate>September 2020</creationDate>
+    <creationDate>November 2020</creationDate>
 	<copyright>Copyright (C) databauer / Stefan Bauer</copyright>
 	<license>License GNU General Public License version 2 or later</license>
 	<author>Stefan Bauer</author>
@@ -19,6 +19,7 @@
         <file type="plugin" id="plg_search_lupo" group="search">plg_search_lupo.zip</file>
         <file type="plugin" id="plg_search_lupogenres" group="search">plg_search_lupogenres.zip</file>
         <file type="plugin" id="plg_content_lupototaltoys" group="content">plg_content_lupototaltoys.zip</file>
+        <file type="plugin" id="plg_content_luporandomquote" group="content">plg_content_luporandomquote.zip</file>
     </files>
     <scriptfile></scriptfile>
     <updateservers>
