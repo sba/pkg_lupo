@@ -2,7 +2,7 @@
 <extension type="package" version="3.1" method="upgrade">
     <name>LUPO</name>
     <packagename>LUPO</packagename>
-    <version>3.80.0</version>
+    <version>3.81.0</version>
     <description>LUPO Spielliste für Joomla</description>
     <creationDate>March 2023</creationDate>
 	<copyright>Copyright (C) databauer / Stefan Bauer</copyright>
